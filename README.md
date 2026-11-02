@@ -4,6 +4,7 @@ Ma base de connaissance CV : expériences, réalisations chiffrées, projets, fo
 
 ## Démarrer
 
+0. Créer sa base depuis ce template (repo privé) : https://github.com/new?template_name=cv-base-template&template_owner=YouzouneDev&name=cv-base&visibility=private
 1. Ce repo doit rester **privé**.
 2. Remplir `profil/identite.md`, puis dire à Claude « importe mon CV » (skill `init-base`) avec ton CV, ton LinkedIn copié-collé ou un export.
 3. Pour générer un CV dans claude.ai : synchroniser ce repo dans un Project (« + » > GitHub), puis « fais-moi un CV pour <lien de l'offre> ».
