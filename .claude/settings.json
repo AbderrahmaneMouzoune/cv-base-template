@@ -1,0 +1,11 @@
+{
+  "extraKnownMarketplaces": {
+    "cv-kit": {
+      "source": { "source": "github", "repo": "YouzouneDev/cv-kit" },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "cv@cv-kit": true
+  }
+}
