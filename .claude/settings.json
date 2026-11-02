@@ -1,7 +1,7 @@
 {
   "extraKnownMarketplaces": {
     "cv-kit": {
-      "source": { "source": "github", "repo": "YouzouneDev/cv-kit" },
+      "source": { "source": "github", "repo": "AbderrahmaneMouzoune/cv-kit" },
       "autoUpdate": true
     }
   },
