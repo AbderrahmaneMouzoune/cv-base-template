@@ -1,6 +1,6 @@
 # Base CV de <Prénom Nom>
 
-Les règles communes, la structure et les workflows sont dans le plugin `cv` (marketplace `YouzouneDev/cv-kit`) :
+Les règles communes, la structure et les workflows sont dans le plugin `cv` (marketplace `AbderrahmaneMouzoune/cv-kit`) :
 - « ajoute au CV : ... » : skill `ajoute-realisation`
 - « fais-moi un CV pour <offre> » : skill `generate-cv`
 
